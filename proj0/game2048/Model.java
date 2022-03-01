@@ -244,6 +244,8 @@ public class Model extends Observable {
     public static boolean emptySpaceExists(Board b) {
         // TODO: Fill in this function.
         // Finished
+
+        //use 2d array
         int size = b.size();
         for (int col = 0; col < size; col += 1) {
             for (int row = 0; row < size; row += 1) {
