@@ -1,4 +1,4 @@
-package Arithmetic;
+package lab2.Arithmetic;
 
 /** Simple Arithmetic Class.
  * @author Josh Hug
